@@ -104,6 +104,8 @@ SELECT
 FROM ds_salaries
 WHERE job_title LIKE '%Data Analyst%'
 GROUP BY experience_level, 
+    employment_type
+ORDER BY experience_level, 
     employment_type;
 ```
 
@@ -170,17 +172,6 @@ LEFT JOIN ds_1
     ON ds_1.work_year = t_year.work_year
 LEFT JOIN ds_2
     ON ds_2.work_year = t_year.work_year;
-SELECT 
-	t_year.work_year,
-	ds_1.sal_in_usd_ex, 
-	ds_2.sal_in_usd_mi, 
-	ds_1.sal_in_usd_ex - ds_2.sal_in_usd_mi AS differences
-FROM 
-	t_year
-LEFT JOIN ds_1 
-	ON ds_1.work_year = t_year.work_year
-LEFT JOIN ds_2 
-	ON ds_2.work_year = t_year.work_year;
 ```
 
 ---
