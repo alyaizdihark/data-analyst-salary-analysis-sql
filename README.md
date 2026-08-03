@@ -77,6 +77,6 @@ SELECT ...
 
 | File | Description |
 |------|-------------|
-| README.md | Project documentation |
-| salary_analysis.sql | SQL queries |
-| salaries_dataset.csv | Dataset |
+| `README.md` | Project documentation |
+| `salary_analysis.sql` | SQL queries |
+| `salaries_dataset.csv` | Dataset |
