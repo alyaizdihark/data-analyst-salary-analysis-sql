@@ -15,7 +15,7 @@ The company wants to conduct a comprehensive analysis of salary patterns for Dat
 
 ---
 
-## Questions
+## Business Questions
 
 1.	What job titles are related to data analyst roles?
 2.	What is the average salary for a data analyst?
@@ -156,7 +156,7 @@ ds_2 AS (
         AND experience_level = 'MI'
         AND job_title LIKE '%Data Analyst%'
     GROUP BY work_year
-) , 
+), 
 t_year AS (
 SELECT 
 	DISTINCT work_year
