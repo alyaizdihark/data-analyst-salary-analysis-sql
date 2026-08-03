@@ -3,6 +3,7 @@
 ## Project Overview
 
 The company wants to conduct a comprehensive analysis of salary patterns for Data Analyst-related roles in the industry, as well as understand how factors such as job title, experience level, employment type, and company location influence employee salaries.
+
 ---
 
 ## Dataset
