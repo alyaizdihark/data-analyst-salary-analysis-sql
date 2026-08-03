@@ -8,6 +8,14 @@ The company wants to conduct a comprehensive analysis of salary patterns for Dat
 
 ## Dataset
 
+-	Total Records: 607
+-	Total Columns: 12 
+-	Analysis Period: 2020–2022
+-	Source: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries 
+
+---
+
+
 ---
 
 ## Questions
