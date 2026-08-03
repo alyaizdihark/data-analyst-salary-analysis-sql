@@ -22,9 +22,8 @@ The company wants to conduct a comprehensive analysis of salary patterns for Dat
 3.	What is the average salary for data analysis jobs based on their experience level and employment type?
 4.	Which countries offer a minimum salary of 20,000 for full-time data analysts at a mid-level or entry-level position?
 5.	In which year did the salary increase from mid to senior level have the highest increase for full-time data analyst-related jobs?
----
 
-## SQL Analysis
+---
 
 ## SQL Analysis
 
