@@ -15,9 +15,6 @@ The company wants to conduct a comprehensive analysis of salary patterns for Dat
 
 ---
 
-
----
-
 ## Questions
 
 1.	What job titles are related to data analyst roles?
